@@ -10,10 +10,12 @@
 BitCanna has been found by and for the cannabis industry to solve issues around banking, identity and supply chain management. To fulfil this purpose in the cannabis industry it is important to be an impartial player in the industry offering utilities and services to each and everyone in the market, ranging from producers, to intermediaries to end consumers. This requires BitCanna to be more than just a company offering tools, but an interlinked set of features making one complete platform where everyone can find what they need; consumers, the industry and governments alike. These tools will comprise payments, identifications, reviews, supply chain tracking, finding stores and gathering knowledge. Build on the Cosmos-SDK we are ready to deliver the products to revolutionize the cannabis industry.
     <br/>
  
-List of our projects:
-    
-* [BitCanna chain - cosmos sdk](https://github.com/BitCannaGlobal/bcna) 
-* [BCNAracle - Secure our price ](https://github.com/BitCannaGlobal/BCNAracle)
-* [WeedWallet - Manage your wallet easyly](https://github.com/BitCannaGlobal/WeedWallet)
-* [Cosmospay-woocommerce - Use BitCanna on your woocommerce](https://github.com/BitCannaGlobal/cosmospay-woocommerce) 
-* [Cosmospay-prestashop - Use BitCanna on your prestashop](https://github.com/BitCannaGlobal/cosmospay-prestashop)   
+
+Find our information and our projects here:
+* [Our BitCanna blockchain](https://github.com/BitCannaGlobal/bcna)
+* [Documentation regarding our chain, tokenomics and more](https://docs.bitcanna.io/)
+* [Our webwallet](https://github.com/BitCannaGlobal/WeedWallet)
+* [Cosmos Pay - the plugin for the cannabis industry](https://commerce.bitcanna.io/)
+  * [Available for WooCommerce](https://wordpress.org/plugins/cosmos-pay/) 
+  * [Available for PrestaShop](https://github.com/BitCannaGlobal/cosmospay-prestashop)   
+* [Our price oracle for $BCNA](https://github.com/BitCannaGlobal/BCNAracle)
