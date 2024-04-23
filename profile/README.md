@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/602625556/1649007099/1500x500" alt="Logo">
+  <img src="https://github.com/BitCannaGlobal/.github/assets/1071490/b5a5dcf8-2dcf-48ea-9b7e-63b4ef5821c1" alt="Logo">
 
   <h3>BitCanna - The Cannabis Cryptocurrency</h3>
 
